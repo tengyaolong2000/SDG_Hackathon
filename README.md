@@ -3,6 +3,7 @@
 ## Prototype demo in Figma
 
 https://www.figma.com/file/KiLEvNbvqvrzEHjmKOjrNa/Hackerfest-Mirror-app?node-id=2%3A2
+
 Click on 'Play' button at the top right
 
 # Problem Statement and motivation
